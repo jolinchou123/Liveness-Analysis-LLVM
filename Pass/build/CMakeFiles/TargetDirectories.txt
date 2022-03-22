@@ -1,0 +1,6 @@
+/Users/nguyen/Desktop/CS201/Project/Liveness-LLVM/Liveness-LLVM/Pass/build/CMakeFiles/LLVMLivenessPass.dir
+/Users/nguyen/Desktop/CS201/Project/Liveness-LLVM/Liveness-LLVM/Pass/build/CMakeFiles/edit_cache.dir
+/Users/nguyen/Desktop/CS201/Project/Liveness-LLVM/Liveness-LLVM/Pass/build/CMakeFiles/acc_gen.dir
+/Users/nguyen/Desktop/CS201/Project/Liveness-LLVM/Liveness-LLVM/Pass/build/CMakeFiles/omp_gen.dir
+/Users/nguyen/Desktop/CS201/Project/Liveness-LLVM/Liveness-LLVM/Pass/build/CMakeFiles/rebuild_cache.dir
+/Users/nguyen/Desktop/CS201/Project/Liveness-LLVM/Liveness-LLVM/Pass/build/CMakeFiles/intrinsics_gen.dir
